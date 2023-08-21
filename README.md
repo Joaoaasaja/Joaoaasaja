@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaojoaovf&label=Profile%20views&color=0e75b6&style=flat" alt="joaojoaovf" /> </p>
 
-<p align="left"> <a href="https://twitter.com/joaojoaovf" target="blank"><img src="https://img.shields.io/twitter/follow/joaojoaovf?logo=twitter&style=for-the-badge" alt="joaojoaovf" /></a> </p>
+<a href="https://wakatime.com/@joaojoaovf">
+    <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social"
+         alt="Wakatime">
+
 
 ## About Me
 - 📖 I am a third-year undergraduate student at [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/).
