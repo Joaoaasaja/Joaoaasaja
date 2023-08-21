@@ -21,7 +21,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="45"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img height="45"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 <code><img height="45"
@@ -32,6 +32,14 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="45"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+        
+        <code><img height="45"
+            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+            <code><img height="45"
+                    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+                    <code><img height="45"
+                            src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
+                            
 
 ## GitHub Stats
 <div>
@@ -56,11 +64,11 @@
         width="40" height="32" alt="twitter logo" />
 </a>
 <a href="https://www.reddit.com/user/joaojoaovf" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg"
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg"
         width="40" height="32" alt="reddit logo" />
 </a>
 <a href="https://discord.gg/joaojoaovf#0001" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg"
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg"
         width="40" height="32" alt="discord logo" />
 </a>
 
