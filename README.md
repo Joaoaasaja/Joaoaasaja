@@ -42,9 +42,9 @@
 <div>
     <a href="https://github.com/joaojoaovf">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&hide_rank=true" />
         
-        <!-- &count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues -->
+        <!-- &count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues -->
 
             <img heigth="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true">
