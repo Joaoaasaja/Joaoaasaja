@@ -57,10 +57,10 @@
         width="40" height="32" alt="instagram logo" />
 </a>
 <a href="https://twitter.com/joaojoaovf" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter.svg" width="40" height="32"
+    <img src="https://github.com/dheFereshagrwal/colored-icons/blob/master/svg/twitter.svg" width="40" height="32"
         alt="twitter logo" />
 </a>
-<a href="https://discord.gg/joaojoaovf" target="_blank">
+<a href="https://discord.gg/joaojoaovf#9051" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" width="40" height="32"
         alt="discord logo" />
 </a>
@@ -68,3 +68,6 @@
 ##
 
 ![Snake animation](https://github.com/joaojoaovf/joaojoaovf/blob/output/github-contribution-grid-snake.svg)
+
+  
+![Snake animation](https://github.com/joaojoaovf/joaojoaovf/blob/output/github-contribution-grid-snake-dark.svg)
