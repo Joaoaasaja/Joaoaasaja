@@ -10,62 +10,32 @@
 - 👯 I’m looking to collaborate on **open source projects**.
 
 ## Current Learning
-
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</code>
-<code>
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-</code>
-<code>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-</code>
-<code>
-    <img height="45"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</code>
-<code>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-</code>
-<code>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</code>
-<code>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
-</code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="45"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="45"
+        src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
 
 
 ## GitHub Stats
