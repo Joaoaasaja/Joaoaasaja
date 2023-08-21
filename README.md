@@ -10,32 +10,32 @@
 - 👯 I’m looking to collaborate on **open source projects**.
 
 ## Current Learning
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="45"
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="35"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="45"
+<code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="35"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="45"
+<code><img height="35"
         src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
-<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
 
 
 ## GitHub Stats
@@ -53,7 +53,7 @@
         width="40" height="32" alt="linkedin logo" />
 </a>
 <a href="https://www.instagram.com/joaojoaovf/" target="_blank">
-    <img src="https://www.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_18246125.htm#query=instagram%20logo&position=1&from_view=keyword&track=ais"
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg"
         width="40" height="32" alt="instagram logo" />
 </a>
 <a href="https://twitter.com/joaojoaovf" target="_blank">
