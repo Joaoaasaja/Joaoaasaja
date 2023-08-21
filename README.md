@@ -60,12 +60,8 @@
         width="40" height="32" alt="instagram logo" />
 </a>
 <a href="https://twitter.com/joaojoaovf" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter.svg"
         width="40" height="32" alt="twitter logo" />
-</a>
-<a href="https://www.reddit.com/user/joaojoaovf" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg"
-        width="40" height="32" alt="reddit logo" />
 </a>
 <a href="https://discord.gg/joaojoaovf#0001" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg"
