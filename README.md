@@ -48,7 +48,7 @@
         width="40" height="32" alt="linkedin logo" />
 </a>
 <a href="https://www.instagram.com/joaojoaovf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"
+    <img src="https://www.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_18246125.htm#query=instagram%20logo&position=1&from_view=keyword&track=ais"
         width="40" height="32" alt="instagram logo" />
 </a>
 <a href="https://twitter.com/joaojoaovf" target="_blank">
