@@ -42,7 +42,7 @@
 <div>
     <a href="https://github.com/joaojoaovf">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&hide_rank=true&count_private=true&show_icons=true&include_all_commits=true" />
+            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&hide_rank=true&count_private=true&show_icons=true" />
         
         <!-- &hide=issues -->
 
