@@ -32,14 +32,12 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="45"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-        
-        <code><img height="45"
-            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-            <code><img height="45"
-                    src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
-                    <code><img height="45"
-                            src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
-                            
+
+<code><img height="45"
+        src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+<code><img height="45" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"></code>
+
 
 ## GitHub Stats
 <div>
@@ -60,12 +58,12 @@
         width="40" height="32" alt="instagram logo" />
 </a>
 <a href="https://twitter.com/joaojoaovf" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter.svg"
-        width="40" height="32" alt="twitter logo" />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter.svg" width="40" height="32"
+        alt="twitter logo" />
 </a>
 <a href="https://discord.gg/joaojoaovf#0001" target="_blank">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg"
-        width="40" height="32" alt="discord logo" />
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" width="40" height="32"
+        alt="discord logo" />
 </a>
 
 ##
