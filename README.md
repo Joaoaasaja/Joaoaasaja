@@ -60,7 +60,7 @@
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/twitter.svg" width="40" height="32"
         alt="twitter logo" />
 </a>
-<a href="https://discord.gg/joaojoaovf#0001" target="_blank">
+<a href="https://discord.gg/joaojoaovf" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/discord.svg" width="40" height="32"
         alt="discord logo" />
 </a>
